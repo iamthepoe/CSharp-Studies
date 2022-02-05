@@ -3,7 +3,7 @@
 <h3>My repository for study CSharp and Dotnet Framework</h3>
 <hr>
 
- - [ ] Structs
+ - [x] Structs
  - [ ] Data & Time
  - [ ] Lists
  - [ ] Dictionary
